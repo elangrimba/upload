@@ -5,9 +5,10 @@
     "keywords": [
         "upload",
         "files",
-		"drag and drop"
+        "drag",
+        "drop"
     ],
-    "version": "0.0.1",
+    "version": "0.0.3",
     "author": {
         "name": "Edmund Gentle",
         "url": "https://github.com/edmundgentle"
